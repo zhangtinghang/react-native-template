@@ -1,7 +1,7 @@
 
 # 基于gulp，TypeScript，tslint的react-native开发模板
 
-> 这是一个基于当前最新版本react-native@的开发模板，内部使用。
+> 这是一个基于当前最新版本react-native@0.57.6的开发模板，内部使用。
 
 ## 开发
 
